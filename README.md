@@ -121,3 +121,6 @@ The entire cache, for all previewed web pages, is cleared with time.
 To force the clearing of cache, use the static method:
 
        LinkPreview.clearCache(context);
+       
+
+[ ![Download](https://api.bintray.com/packages/eukaprotech/maven/linkpreview/images/download.svg?version=1.0.0) ](https://bintray.com/eukaprotech/maven/linkpreview/1.0.0/link)
