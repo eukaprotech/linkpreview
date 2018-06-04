@@ -2,7 +2,7 @@
 An android asynchronous preview of a webpage from its link.
 
 # Versions
-* [V1.0.0](https://github.com/eukaprotech/localserver/blob/master/com/eukaprotech/linkpreview/linkpreview/1.0.0/README.md "Version 1.0.0 Overview")
+* [V1.0.0](https://github.com/eukaprotech/linkpreview/blob/master/com/eukaprotech/linkpreview/linkpreview/1.0.0/README.md "Version 1.0.0 Overview")
 
 # Getting Started (V1.0.0)
 Add the dependency in build.gradle (App module)
